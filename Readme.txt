@@ -1,2 +1,1 @@
-" Test thu github"
-"Complete"
+"Cinvert file lable .xml (SSD Mobilenetv2) to file .txt (Yolo)
