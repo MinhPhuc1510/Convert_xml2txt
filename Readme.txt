@@ -1,1 +1,1 @@
-"Cinvert file lable .xml (SSD Mobilenetv2) to file .txt (Yolo)
+"Convert file lable .xml (SSD Mobilenetv2) to file .txt (Yolo)
